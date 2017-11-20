@@ -1,8 +1,7 @@
 package com.codebind;
 
 public class App {
-	public String Sample() {
-		return "Sample";
+	public static void main (String[] args) {
+		System.out.println("This is a Test Repository");
 	}
-
 }
